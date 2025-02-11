@@ -1,0 +1,217 @@
+// Day 1: Problem Statements & Systematic Approaches
+// Session Focus: Interpreting problem statements, breaking down problems systematically.
+//* -------Session Practice Questions:--------
+// 1. Determine if a number is positive or negative.
+// 2. Find the sum of two integers.
+// 3. Identify the maximum and minimum of three numbers.
+// 4. Count the number of digits in a number.
+// 5. Check if a string contains only alphabets.
+// 6.  Calculate the area of a circle with a given radius.
+// 7. Check if a character is a vowel.
+//* ----Post-Session Practice Questions:-------
+// 8. Calculate the difference between two integers.
+// 9. Check if a number is even or odd.
+// 10.Calculate the perimeter of a rectangle.
+// 11.Find the largest of four numbers.
+// 12.Calculate the average of three numbers.
+// 13.Count the number of vowels in a string.
+// 14.Determine if a character is uppercase.
+// 15.Print the reverse of a string.
+// 16.Find the square of a number.
+
+// Day 2: Maths & Pattern Creation
+//* Session Focus: Solving fundamental math problems and creating patterns.
+//? ------Session Practice Questions:--------
+// 1. Calculate the factorial of a number.
+// 2. Generate the Fibonacci sequence up to N terms.
+// 3. Check if a number is prime.
+// 4. Sum of digits in a number.
+// 5. Check if a number is a palindrome.
+// 6. Print a right-angled triangle pattern of asterisks.
+// 7. Print a hollow square pattern.
+//* -------Post-Session Practice Questions:-------
+// 8. Find the LCM of two numbers.
+// 9. Generate a pyramid pattern of numbers.
+// 10. Calculate the GCD of two numbers.
+// 11. Print an inverted triangle pattern of stars.
+// 12. Check if two numbers are coprime.
+// 13. Print a diamond pattern of stars.
+// 14. Print Pascal’s triangle up to N rows.
+// 15. Find all divisors of a number.
+// 16. Print a checkerboard pattern.
+
+// Day 3: Strings & String Manipulation
+//* Session Focus: Basic string operations, string traversal, and manipulation techniques.
+//?-------- Session Practice Questions:----------
+// 1. Count vowels and consonants in a string.
+// 2. Reverse a string.
+// 3. Convert a string to lowercase/uppercase.
+// 4. Find the longest word in a sentence.
+// 5. Check if a string is a palindrome.
+// 6. Remove duplicates from a string.
+// 7. Find all substrings of a given string.
+//? --------Post-Session Practice Questions:----------
+// 8. Concatenate two strings.
+// 9. Find the frequency of each character in a string.
+// 10.Replace spaces in a string with %20.
+// 11.Check if a string is an anagram of another.
+// 12.Count the number of words in a sentence.
+// 13.Find the first non-repeating character in a string.
+// 14.Remove all vowels from a string.
+// 15.Find the shortest word in a sentence.
+// 16.Count occurrences of a substring within a string.
+
+//? Day 4: Arrays & Array Manipulations
+//* Session Focus: Array creation, traversal, and manipulation techniques.
+//? ---------Session Practice Questions:------------
+// 1. Find the maximum and minimum elements in an array.
+// 2. Find the second - largest element in an array.
+// 3. Sort an array of integers.
+// 4. Rotate an array by one position.
+// 5. Remove duplicates from a sorted array.
+// 6. Calculate the sum of elements in an array.
+// 7. Calculate the rightsidedsum of elements in an array.
+// 8. Find the number of occurrences of an element in an array.
+//? --------Post - Session Practice Questions:----------
+// 9. Merge two sorted arrays. very imp
+// 10.Reverse the elements in an array.
+// 11.Rotate an array to the left by K positions. imp
+// 12.Search for an element in a sorted array.
+// 13.Find the cumulative sum of an array.
+// 14.Calculate the product of all elements in an array.
+// 15.Check if an array is a palindrome.
+// 16.Find the intersection of two arrays. imp
+
+// ? Day 5: Searching Algorithms
+// * Session Focus: Linear search and binary search techniques.
+// ? ----------Session Practice Questions:------------
+// 1. Implement a linear search to find an element in an array.
+// 2. Implement a binary search on a sorted array.
+// 3. Find the first and last occurrence of a target in an array.
+// 4. Search for a target in a rotated sorted array.
+// 5. Count occurrences of a target using binary search.
+// 6. Find the index where an element should be inserted in a sorted array.
+// 7. Find the peak element in a mountain array.
+// ---------Post - Session Practice Questions:-----------
+// 8. Find the floor and ceiling of a target in a sorted array.
+// 9. Find the smallest missing element in a sorted array.
+// 10. Perform ternary search on a sorted array.
+// 11.Find the index of a target in an infinite array.
+// 12.Find the minimum element in a rotated sorted array.
+// 13.Count the frequency of elements using binary search.
+// 14.Find the closest element to a target in a sorted array.
+// 15.Implement an exponential search.
+// 16.Find the peak index in a bitonic array.
+
+//? Day 6: Sorting Algorithms
+//* Session Focus: Introduction to sorting algorithms: bubble sort, selection sort, and insertion sort.
+//? ---------Session Practice Questions:----------
+// 1. Implement bubble sort on an array of integers.
+// 2. Sort an array using selection sort.
+// 3. Sort an array of integers in descending order.
+// 4. Implement insertion sort on an array of integers.
+// 5. Find the median of a sorted array.
+// 6. Sort an array of 0s, 1s, and 2s(Dutch National Flag problem).
+// 7. Sort an array of strings by their lengths.
+// ?-------- Post - Session Practice Questions:----------
+// 8. Sort an array using merge sort.
+// 9. Implement quicksort on an array of integers.
+// 10.Sort a nearly sorted array(where each element is at most k places away from its target position).
+// 11.Perform a bucket sort on an array of decimals.
+// 12.Sort an array of integers by frequency of elements.
+// 13.Sort an array of strings lexicographically.
+// 14.Sort an array using heap sort.
+// 15.Sort a matrix row-wise and column - wise.
+// 16.Find the kth smallest element in an array.
+// 17.Sort an array containing negative and positive numbers, with negatives coming first.
+
+// ? Day 7: Stacks, Queues & Recursion
+// * Session Focus: Stack and queue operations, recursive problem - solving techniques.
+// ?--------- Session Practice Questions:--------------
+// 1. Implement a stack using an array.
+// 2. Check for balanced parentheses in an expression.
+// 3. Reverse a string using a stack.
+// 4. Implement a queue using two stacks.
+// 5. Find the next greater element for each array element.
+// 6. Evaluate a postfix expression using a stack.
+// 7. Design a browser’s forward and backward navigation (stack - based).
+// ------- Post - Session Practice Questions:------------
+// 8. Implement a circular queue.
+// 9. Sort a stack using recursion.
+// 10.Find the maximum element in a stack in constant time.
+// 11.Design a data structure supporting min, max, push, and pop in constant time.
+// 12.Reverse the first k elements of a queue.
+// 13.Implement a priority queue.
+// 14.Find the minimum element in a stack.
+// 15.Check if a string can be reduced to an empty string by recursive removal of adjacent duplicates.
+// 16.Design a system that supports efficient insertion and retrieval of most recent elements(deque).
+
+// ? Day 8: Linked Lists
+// * Session Focus: Introduction to linked lists and basic operations: insertion, deletion, and traversal.
+// ?--------- Session Practice Questions:----------
+// 1. Implement a LinkedList using Class
+// 2. Insert a node at the beginning of a linked list.
+// 3. Insert a node at the end of a linked list.
+// 4. Delete the last node in a linked list.
+// 5. Reverse a linked list iteratively.
+// 6. Detect a cycle in a linked list using fast and slow pointers.
+// 7. Find the middle node of a linked list.
+// 8. Merge two sorted linked lists.
+// --------Post - Session Practice Questions:----------
+// 9. Reverse a linked list recursively.
+// 10.Check if a linked list is a palindrome.
+// 11.Remove the n - th node from the end of a linked list.
+// 12.Find the intersection point of two linked lists.
+// 13.Flatten a multilevel doubly linked list.
+// 14.Add two numbers represented by linked lists.
+// 15.Partition a linked list around a value x.
+// 16.Clone a linked list with random pointers.
+// 17.Split a linked list into two halves.
+// 18.Sort a linked list using merge sort.
+
+// ? Day 9: Trees
+// * Session Focus: Introduction to binary trees and binary search trees, basic operations, and traversals.
+// ? --------Session Practice Questions:----------
+// 1. Perform a pre - order traversal of a binary tree.
+// 2. Find the height of a binary tree.
+// 3. Check if a binary tree is a binary search tree(BST).
+// 4. Count the number of leaf nodes in a binary tree.
+// 5. Calculate the sum of all nodes in a binary tree.
+// 6. Find all root - to - leaf paths in a binary tree.
+// 7. Find the lowest common ancestor(LCA) of two nodes in a BST.
+//-------- Post - Session Practice Questions:-----------
+// 8. Perform an in-order traversal iteratively.
+// 9. Find the diameter of a binary tree.
+// 10.Check if two binary trees are identical.
+// 11.Convert a binary tree to a doubly linked list.
+// 12.Construct a binary tree from its inorder and preorder traversals.
+// 13.Print all nodes at k distance from the root.
+// 14.Serialize and deserialize a binary tree.
+// 15.Find the level with the maximum sum in a binary tree.
+// 16.Calculate the depth of the deepest leaf node.
+// 17.Convert a BST to a balanced BST.
+
+// ? Day 10: Advanced Techniques & Recap
+// * Session Focus: Recap of Two - Pointer Technique, Sliding Window, Fast & Slow Pointers, and Hashing.
+// ? -----------Session Practice Questions:-----------
+// 1. Find two numbers in a sorted array that add up to a target sum(two - pointer).
+// 2. Find the length of the longest substring without repeating characters(sliding window).
+// 3. Check if a linked list has a cycle(fast & slow pointers).
+// 4. Find the first non - repeating character in a string(hashing).
+// 5. Find the maximum sum of a subarray of size k(sliding window).
+// 6. Check if a permutation of one string is a substring of another(hashing).
+// 7. Merge two sorted arrays without using extra space (two - pointer).
+// 8. Find all triplets in an array that sum up to zero(two - pointer).
+// 9. Find the maximum length of a subarray with equal 0s and 1s(sliding window).
+// ---------Post - Session Practice Questions:------------
+// 10.Find the first missing positive integer in an array(hashing).
+// 11.Count the number of subarrays with a sum equal to zero(sliding window).
+// 12.Check if an array contains duplicate elements within k distances(sliding window).
+// 13.Find the longest subarray with a sum equal to k(sliding window).
+// 14.Find the longest mountain in an array(two - pointer).
+// 15.Sort an array by the parity of elements(two - pointer).
+// 16.Find all pairs in an array with a difference equal to a target value(two - pointer).
+// 17.Find the longest subarray with at most two distinct characters(sliding window).
+// 18.Find the first non - repeating element in a stream of characters(hashing).
+// 19.Merge two sorted arrays without using extra space (two - pointer).
+// 20.Find the largest subarray with a sum less than or equal to a given value(sliding window).
